@@ -1,0 +1,12 @@
+# Environment
+venv/
+.env
+
+# Cache
+__pycache__
+
+# IDE
+.idea/
+
+# other
+.DS_Store
